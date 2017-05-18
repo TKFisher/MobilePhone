@@ -1,4 +1,4 @@
-
+package ChallengeOne;
 
 /*
  Create a program that implements a simple mobile phone with the following capabilities.
@@ -18,9 +18,11 @@
  Be sure not to expose the inner workings of the Arraylist to MobilePhone
  e.g. no ints, no .get(i) etc
  MobilePhone should do everything with Contact objects only.
+
 */
 
-public class MobilePhone {
+
+public class Main {
 
 
 
